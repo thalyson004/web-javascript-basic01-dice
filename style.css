@@ -1,0 +1,26 @@
+body{
+  background-color: #ccf6c8;
+}
+
+h1{
+  padding: 3rem 0;
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+
+footer{
+  padding-top: 5rem;
+}
+
+.resultNumber{
+  font-size: 3rem;
+}
+
+.resultText{
+  padding-top: 4rem;
+}
+
+.dices{
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
